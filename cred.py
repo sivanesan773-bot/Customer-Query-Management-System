@@ -1,0 +1,8 @@
+clientUname = "client"
+supportUname = "support"
+clientPword = "Sivanbu@120"
+supportPword = "Anbesivam@120"
+sqlHost = "localhost"
+sqlUser = "root"
+sqlPword = "Sivanbu@1993"
+sqlDatabase = "cqms"
